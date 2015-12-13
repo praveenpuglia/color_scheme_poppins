@@ -8,13 +8,13 @@ A Color Scheme inspired by...
 ## Installation
 ### Via Package Control
 
-Go to Command Palette <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> or <kbd>⌘</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>
-Select **Package Control : Install Package** 
-Search for *Poppins Color Scheme* & Install.
+- Go to Command Palette <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> or <kbd>⌘</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>
+- Select **Package Control : Install Package**.
+- Search for **Poppins Color Scheme** & Install.
 
 ### Manual
-Download the **.tmTheme** file from this repo.
-Put it in **User** directory inside Packages( Preferences > Browse Packages... ) directory.
+- Download the **.tmTheme** file from this repo.
+- Put it in **User** directory inside Packages( Preferences > Browse Packages... ) directory.
 
 ## Activation
 ```
