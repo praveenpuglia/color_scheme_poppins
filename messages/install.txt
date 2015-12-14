@@ -1,0 +1,19 @@
+Thanks for installing Poppins. ｡◕‿◕｡
+ ______                  _            
+(_____ \                (_)           
+ _____) )__  ____  ____  _ ____   ___ 
+|  ____/ _ \|  _ \|  _ \| |  _ \ /___)
+| |   | |_| | |_| | |_| | | | | |___ |
+|_|    \___/|  __/|  __/|_|_| |_(___/ 
+            |_|   |_|                 
+
+◎ Installation
+-------------------------------------------------
+Preferences ⇒ Color Scheme ⇒ Poppins
+
+◎ Reporting Bugs
+-------------------------------------------------
+If you find a bug, do report it here -  
+https://github.com/praveenpuglia/color_scheme_poppins/issues
+
+It'll be awesome to make it better!
