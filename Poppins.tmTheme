@@ -60,7 +60,7 @@
 			<key>name</key>
 			<string>Comment</string>
 			<key>scope</key>
-			<string>comment</string>
+			<string>comment, punctuation.definition.comment</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -170,7 +170,13 @@
 			<key>name</key>
 			<string>Variable, String Link</string>
 			<key>scope</key>
-			<string>variable, support.other.variable, string.other.link</string>
+			<string>variable, support.other.variable, string.other.link,
+entity.name.tag.inline.any.html,
+entity.name.tag.block.any.html,
+entity.name.tag.script.html,
+entity.name.tag.structure.any.html,
+meta.tag.structure.any.html,
+entity.name.tag</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
