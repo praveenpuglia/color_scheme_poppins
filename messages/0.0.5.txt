@@ -1,0 +1,4 @@
+◎ Version 0.0.5 Change Notes
+-------------------------------------------------------
+    ◈ Fix : double slash comment shows green instead of gray
+    ◈ Fix : Markdown link texts have multiple colors inside braces []
